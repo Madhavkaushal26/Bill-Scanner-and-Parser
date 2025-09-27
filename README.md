@@ -31,6 +31,7 @@ The Bill Scanner and Parser processes raw or low-quality bill images using OpenC
   },
   "total_amount": 230.0
 }
+```
 ## Future Scope
 
 While the scanner works as a standalone project, its true potential lies in being integrated with larger applications.
